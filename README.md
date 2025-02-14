@@ -1,7 +1,7 @@
 Path to Freedom – "طريق التحرير"
 Final Project for Serious Gaming Fundamentals
 
-![image alt]([image_url](https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/intro.png?raw=true))
+![image alt](https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/intro.png?raw=true)
 
 Developed by:
   Anas Al Sayed – Interface Design, Character Creation, Sound Design
