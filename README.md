@@ -135,3 +135,7 @@ Players assume the role of a young Palestinian protagonist who travels through v
 This project is for educational purposes.  
 
 ---
+
+## Gameplay Video
+[Watch the Gameplay Video on YouTube]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://www.youtube.com/watch?v=qHfG-ThLV9o&lc=Ugwja4_c8Nyt4xA4m814AaABAg))
+
