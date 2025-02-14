@@ -1,6 +1,8 @@
 Path to Freedom – "طريق التحرير"
 Final Project for Serious Gaming Fundamentals
 
+![image alt]([image_url](https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/intro.png?raw=true))
+
 Developed by:
   Anas Al Sayed – Interface Design, Character Creation, Sound Design
   Abd Al-Rheem Yaseen – Game Programming and Level Design
@@ -73,7 +75,7 @@ Challenges and Achievements
   Achievements
     Successfully integrated educational content into an interactive game.
     Created an immersive experience highlighting Palestinian heritage and culture.
-  Future Enhancements
-    Expansion to more cities and stages.
-    Addition of multiplayer mode.
-    Localization for broader audiences.
+Future Enhancements
+  Expansion to more cities and stages.
+  Addition of multiplayer mode.
+  Localization for broader audiences.
