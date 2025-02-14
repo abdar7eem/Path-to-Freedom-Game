@@ -38,7 +38,7 @@ Target Audience
   
 Game Storyline & Levels
 
-![image alt]([https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/intro.png?raw=true](https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/story.png?raw=true))
+![image alt](https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/story.png?raw=true)
 
   Level 1: Exploring Ancient Akka
     Players explore the streets of Akka, navigating its ancient walls, port, and old markets while answering questions about the city's history and landmarks.
@@ -80,7 +80,7 @@ Challenges and Achievements
     Created an immersive experience highlighting Palestinian heritage and culture.
 Future Enhancements
 
-![image alt]([https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/intro.png?raw=true](https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/future.png?raw=true))
+![image alt](https://github.com/abdar7eem/Path-to-Freedom-Game/blob/main/future.png?raw=true)
 
   Expansion to more cities and stages.
   Addition of multiplayer mode.
